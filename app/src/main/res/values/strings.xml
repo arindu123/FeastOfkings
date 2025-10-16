@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Feast of Kings</string>
+    <string name="textView3">"Taste the magic in Earth</string>
+    <string name="thefix">the fix for</string>
+    <string name="ride">your ride"</string>
+    <string name="nxtbtn">Next</string>
+    <string name="skip">Skip</string>
+    <string name="mainTitle">Order For Food</string>
+    <string name="success"> Success </string>
+    <string name="done">Your payment was successful</string>
+    <string name="sendmail">Done your pament and you will send mail</string>
+    <string name="back">back</string>
+    <string name="descriptionText">Craving something delicious? Order your favorite meals from top local restaurants and get them delivered hot and fresh to your doorstep in minutes.</string>
+    <string name="nxtbtn2">Next</string>
+    <string name="skip2">Skip</string>
+    <string name="hungryTitle">Are you \n Hungry?</string>
+    <string name="getStartedButton">Get Started</string>
+    <string name="skip3">Skip</string>
+    <string name="topic4">Secure and Easy Payments</string>
+    <string name="onboard4details">Enjoy a hassle-free shopping experience with multiple payment options. Pay securely using credit/debit cards, mobile wallets, or cash on delivery—fast, safe, and convenient!</string>
+    <string name="tab_details">Details</string>
+    <string name="skip4">Skip</string>
+    <string name="login">Login</string>
+    <string name="username">User Name</string>
+    <string name="namehint">Enter Your User Name</string>
+    <string name="password">Password</string>
+    <string name="passwordhint">  Enter Your Password</string>
+    <string name="fpasswo">Forget password?change password</string>
+    <string name="loginbtn">Login</string>
+    <string name="signupbtn">Sign Up</string>
+    <string name="orloginwith">Or Login With</string>
+    <string name="createaccount">Create Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email Address</string>
+    <string name="number">Phone Number</string>
+    <string name="Cpassword">Passwordd</string>
+    <string name="repassword">Re-Enter Password</string>
+    <string name="cnamehint">Enter Your User Name</string>
+    <string name="emailhint">Enter Your User Email</string>
+    <string name="emailhint2">Enter Your User Phone Number</string>
+    <string name="numberhint">Enter Your User Number</string>
+    <string name="Cpasswordhint">Password</string>
+    <string name="repasswordhint">Re-Enter Password</string>
+    <string name="signupbtn1">Sign Up</string>
+    <string name="payment">Make the payment</string>
+    <string name="cardnumber">Card Number</string>
+
+
+    <string name="reduce">-</string>
+    <string name="add">+</string>
+    <string name="item">1</string>
+    <string name="price">Rs 17990.00</string>
+    <string name="pay1">Pay Now</string>
+    <string name="logout">Log Out</string>
+</resources>
