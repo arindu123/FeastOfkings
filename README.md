@@ -2,7 +2,12 @@
 
 <div align="center">
 
-![FeastOfKings Logo](https://via.placeholder.com/150x150/F4B942/E94E1B?text=🍔+🍟)
+<p align="center">
+  <img src="screenshots/logo.png" alt="FeastOfKings Logo" width="150" height="150">
+</p>
+
+<h1 align="center">🍔 Feast Of Kings</h1>
+
 
 **A high-fidelity Android UI/UX prototype for fast, simple food ordering**
 
